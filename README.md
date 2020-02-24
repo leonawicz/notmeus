@@ -4,4 +4,4 @@ Custom non-geospatial map tiles and Leaflet viewer for Bernie Sanders 2020 campa
 
 A people-powered movement. #NotMeUs
 
-View hosted [Leaflet map](leonawicz.github.io/notmeus/notmeus.html).
+View hosted [Leaflet map](https://leonawicz.github.io/notmeus/notmeus.html).
